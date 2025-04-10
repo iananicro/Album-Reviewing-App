@@ -1,12 +1,9 @@
-Description
+Important Information to Note
 -----
-
 **Please not that "...FinalProject\MauiApp1\bin" and "...FinalProject\MauiApp1\obj" are not uploaded on GitHub because this would be ~700MB of excess. The folders are there, but are empty.**
 
-
-
-
-
+Project Description
+-----
 This program was my Final Project for my ITS440 Application Integration from December 2023.
 
 The Album Reviewing Application is a C#.NET MAUI based mobile application program that lets the user enter and modify various pieces of information relating to reviewing an album. It uses SQLite to locally saved user inputted information.
